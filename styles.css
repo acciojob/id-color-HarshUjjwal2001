@@ -3,8 +3,9 @@
 p#yellow
 {
 	background-color:yellow;
-	/* border-color:green; */
+	border-color:green;
 	outline:1px solid green;
+	border-top-style:solid green;
 	
 }
 
